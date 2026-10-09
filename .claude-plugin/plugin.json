@@ -1,0 +1,11 @@
+{
+  "name": "unity-workflow",
+  "displayName": "Unity Workflow",
+  "version": "1.0.0",
+  "description": "Unity coding standards, development workflow, project setup, reviewer and log agents, milestone changelogs, and guard hooks for .meta files, generated folders and git push.",
+  "author": {
+    "name": "unsulliedd"
+  },
+  "repository": "https://github.com/unsulliedd/Skills",
+  "keywords": ["unity", "workflow", "coding-standards", "changelog"]
+}

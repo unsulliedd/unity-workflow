@@ -1,0 +1,14 @@
+{
+  "name": "unsulliedd-skills",
+  "description": "Claude Code plugins for Unity development",
+  "owner": {
+    "name": "unsulliedd"
+  },
+  "plugins": [
+    {
+      "name": "unity-workflow",
+      "source": "./",
+      "description": "Unity coding standards, development workflow, project setup, reviewer and log agents, milestone changelogs, and guard hooks."
+    }
+  ]
+}
