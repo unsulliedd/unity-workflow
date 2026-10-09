@@ -42,7 +42,7 @@ The repository is also a Claude Code marketplace holding one plugin, `unity-work
 Install:
 
 ```bash
-claude plugin marketplace add unsulliedd/Skills
+claude plugin marketplace add unsulliedd/unity-workflow
 claude plugin install unity-workflow@unsulliedd-skills
 ```
 
