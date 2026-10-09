@@ -39,6 +39,8 @@ The repository is also a Claude Code marketplace holding one plugin, `unity-work
 * **Agents**: `unity-reviewer` (adversarial review of high-risk diffs, PASS/FAIL) and `console-reader` (digests long Unity logs).
 * **Hooks** ([`hooks/guard.js`](hooks/guard.js), needs Node): blocks hand-written `.meta` files and edits to `Library/`, `Temp/`, `Logs/`, `obj/` and the generated root `.csproj`/`.sln` files in Unity projects; asks for confirmation before any `git push`.
 
+New here? Read the short [Getting Started](docs/getting-started.md) guide.
+
 Install:
 
 ```bash
